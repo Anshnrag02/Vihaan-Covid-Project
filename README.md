@@ -1,9 +1,10 @@
 # BEATCOVID
 <img src = "https://github.com/Anshnrag02/Vihaan-Covid-Project/blob/main/images/Untitled-1.png">
-#### Vihaan-COVID19-Project
+
+# Vihaan-COVID19-Project
 Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
 
-### Contributors
+# Contributors
 [Aagam Jain](https://github.com/aagamjainaj7)</br>
 [Aditya Teltia](https://github.com/AdityaTeltia)</br>
 [Aaryan Arora](https://github.com/aaryan2134)</br>
@@ -15,12 +16,17 @@ Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
 * Install all the required libraries:<br>
    -```pip install -r requirements.txt```
 
-## Project highlights
+# Project highlights
 
-## 1. Real time Face Mask detection of multiple Entities
+# 1. Real time Face Mask detection of multiple Entities
+
 <img src = "https://github.com/Anshnrag02/Vihaan-Covid-Project/blob/main/images/unknown.png">
 <img src = "https://github.com/Anshnrag02/Vihaan-Covid-Project/blob/main/images/unknown%20(1).png">
-## 2. AI based social distancing estimation in real time
+
+# 2. AI based social distancing estimation in real time
+
 <img src = "https://github.com/Anshnrag02/Vihaan-Covid-Project/blob/main/images/output.gif">
-## 3. Speechly based Zero Touch Human Computer Interaction
+
+# 3. Speechly based Zero Touch Human Computer Interaction
+
 <img src = "https://github.com/Anshnrag02/Vihaan-Covid-Project/blob/main/images/Screenshot_462.png">
