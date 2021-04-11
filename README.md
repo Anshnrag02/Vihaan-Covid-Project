@@ -22,3 +22,4 @@ Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
 2. AI based social distancing estimation in real time
 
 3. Speechly based Zero Touch Human Computer Interaction
+<img src = "https://github.com/Anshnrag02/Vihaan-Covid-Project/blob/main/images/Screenshot_462.png">
