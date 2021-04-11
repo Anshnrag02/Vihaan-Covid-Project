@@ -12,7 +12,7 @@ Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
 
 ## Installation:
 * Clone the repository and download the code:<br>
-   -```gh repo clone Anshnrag02/Vihaan-Covid-Project/Social%20distancing%20AI```
+   -```gh repo clone Anshnrag02/Vihaan-Covid-Project/```
 * Install all the required libraries:<br>
    -```pip install -r requirements.txt```
 
