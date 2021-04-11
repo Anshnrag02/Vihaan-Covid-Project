@@ -32,3 +32,4 @@ Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
 <img src = "https://github.com/Anshnrag02/Vihaan-Covid-Project/blob/main/images/Screenshot_462.png">
 
 You can download the video from this link
+<vid src = "https://github.com/Anshnrag02/Vihaan-Covid-Project/blob/main/videoWebsite_Demo/website%20Demo.mp4">
