@@ -1,3 +1,5 @@
+### BEATCOVID
+
 # Vihaan-COVID19-Project
 Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
 
@@ -12,3 +14,11 @@ Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
    -```gh repo clone Anshnrag02/Vihaan-Covid-Project/Social%20distancing%20AI```
 * Install all the required libraries:<br>
    -```pip install -r requirements.txt```
+
+## Project highlights
+
+1. Real time Face Mask detection of multiple Entities
+
+2. AI based social distancing estimation in real time
+
+3. Speechly based Zero Touch Human Computer Interaction
